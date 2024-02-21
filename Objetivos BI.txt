@@ -1,0 +1,19 @@
+1 - Mostrar o total de pedidos da base de dados
+
+Uma das primeiras tarefas que você enfrentará como analista de dados nesse projeto é revelar o total de pedidos registrados na base de dados da Olist. Usando as suas habilidades no Power BI, você poderá criar uma visualização clara e concisa que mostrará o número de pedidos, fornecendo uma visão geral inicial abrangente da base de dados.
+
+2 - Criar uma visualização para mostrar a evolução dos pedidos no tempo
+
+Ao mergulhar fundo nos dados da Olist, você descobrirá que a história dos pedidos ao longo do tempo é extremamente valiosa. Essa análise temporal permitirá que a equipe da empresa tome decisões estratégicas mais embasadas e antecipe as demandas futuras. E por meio do uso de visuais no Power BI, será possível obter uma visualização dinâmica e interativa que ilustra a evolução dos pedidos, destacando possíveis sazonalidades, tendências e padrões ao longo do tempo.
+
+3 - Criar uma visualização para mostrar os percentuais de preferência por tipo de pagamento
+
+Para compreender melhor o comportamento dos clientes da Olist, é essencial analisar os diferentes tipos de pagamento utilizados em suas transações. Utilizando o Power BI, você poderá criar uma visualização clara e informativa que demonstrará os percentuais de preferência por cada tipo de pagamento. Essa visualização revelará quais métodos de pagamento são mais populares entre os clientes da Olist, fornecendo insights valiosos para direcionar estratégias de marketing e aprimorar a experiência do cliente.
+
+4 - Criar uma visualização que mostra a quantidade de produtos por categoria, observando apenas um ranking dos valores mais altos
+
+Outro aspecto importante para entender o negócio da Olist é analisar as categorias de produtos vendidos. Com o PowerBI, você poderá criar uma visualização impactante que destacará as categorias com a maior quantidade de vendas, apresentando um ranking dos valores mais altos. Essa visualização permitirá que a equipe da empresa identifique quais categorias de produtos são as mais populares entre os consumidores e direcione esforços para otimizar o mix de produtos e a estratégia de precificação.
+
+5 - Criar um filtro para segmentar os registros por ano
+
+Para facilitar a análise dos dados da Olist, será necessário criar um filtro que permita segmentar os registros por ano. Utilizando o Power BI, você poderá desenvolver um filtro interativo que permitirá à equipe explorar os dados de forma mais precisa e detalhada, isolando informações específicas de cada ano. Esse filtro será uma ferramenta valiosa para identificar tendências sazonais, avaliar o crescimento ao longo do tempo e fazer comparações entre diferentes períodos. Além disso, é importante criar um filtro que desconsidere pedidos sem data de aprovação (filtro para valores em branco nas datas).
